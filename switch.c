@@ -10,6 +10,8 @@ int main(){
 			printf("Btech in ECE");
                 case 4:
 			printf("Btech in MEC");
+		case 5:
+			printf("Btech in Datascience");
 	}
 	return 0;
 }
