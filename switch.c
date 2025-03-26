@@ -9,7 +9,7 @@ int main(){
 		case 3:
 			printf("Btech in ECE");
                 case 4:
-			printf("Btech in MEC");
+			printf("Btech in Electronics");
 	}
 	return 0;
 }
