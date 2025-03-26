@@ -8,4 +8,9 @@ int main(){
 			printf("Btech in AI&ML");
 		case 3:
 			printf("Btech in ECE");
+                case 4:
+			printf("Btech in MEC");
+	}
+	return 0;
+}
 
