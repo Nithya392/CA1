@@ -5,7 +5,7 @@ int main(){
 		case 1:
 			printf("Btech in CSE");
 		case 2:
-			printf("Btech in AI&ML");
+			printf("Btech in AI&ML and datascience");
 		case 3:
 			printf("Btech in ECE");
                 case 4:
